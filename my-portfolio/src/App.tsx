@@ -742,7 +742,7 @@ export default function App() {
               <p style={{ fontSize: "14px", color: "#94a3b8", lineHeight: 1.85, margin: 0 }}>
                 Founder of{" "}
                 <a
-                  href="https://github.com/EmmanuelOlatunde/estatly"
+                  href="https://estatly.com.ng"
                   style={{ color: "#00f5c4", textDecoration: "none" }}
                 >
                   Estatly
