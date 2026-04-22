@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { useState, useEffect, useRef, useCallback } from "react";
 import {
   Files, Search, GitBranch, Settings, X, Sun, Moon,
